@@ -3,7 +3,7 @@ package NumericString;
 public class FindingIfAStringIsNumeric {
     public static void main(String[] arrStrings) {
 
-        String stringLine = "YAHOO1234";
+        String stringLine = "YAHOO";
         boolean numeric = true;
 
         try {
