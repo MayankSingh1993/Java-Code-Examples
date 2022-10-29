@@ -5,11 +5,14 @@ This repository is kept up to date with a library of Java code samples to aid be
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-
-
 - Fork this repository
 - Clone the repository
 - Create a branch
 - Make necessary changes and commit those changes
 - Push changes to GitHub
 - Submit your changes for review
+
+# Who can participate
+
+Anyone who is familiar with Java can make the contribution.
+
