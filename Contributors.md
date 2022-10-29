@@ -6,5 +6,6 @@ Please ensure that your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - The pull request and commit should be given a meaningful title.
 - Ensure that you describe your pull request.
+- Please refrain from copying someone else's code. Such actions are not appreciated.
 
 Thank you for your contributing!
